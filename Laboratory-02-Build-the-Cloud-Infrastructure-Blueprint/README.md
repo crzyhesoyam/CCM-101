@@ -10,13 +10,10 @@ A small company is planning to migrate its services to the cloud. Before any ser
 - Maintain a professional GitHub portfolio through structured commits.
 
 ## Cloud Infrastructure Components
-Four core components were identified and documented in `cloud-components.md`:
 - **Compute Resources** – the processing power (CPU/RAM) that runs workloads.
 - **Storage Resources** – persistent storage for data, files, and logs.
 - **Networking Resources** – connects the server to users and other systems.
 - **Operating System** – manages hardware and provides the environment for applications to run.
-
-Each component was related back to findings from the KillerCoda Linux server (see `infrastructure-report.md`).
 
 ## Tools Used
 - **KillerCoda** – cloud-based Linux terminal environment
