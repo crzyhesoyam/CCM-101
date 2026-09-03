@@ -43,3 +43,15 @@ Services the client could use:
 2. **Amazon CloudFront** as a global content delivery network to reduce latency for customers worldwide
 3. **Amazon RDS with Multi AZ deployment** for highly available, fault tolerant databases
 4. **Elastic Load Balancing** for distributing traffic across servers to maintain uptime during demand spikes
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers extensive startup programs, generous free tier, pay-as-you-go pricing, and the largest ecosystem of third-party integrations. This minimizes initial costs while supporting rapid scaling as the company grows. |
+| Enterprise Organization | AWS or Azure | AWS dominates the enterprise market with mature services and widespread adoption. However, Azure excels if the organization uses Microsoft technologies and already has enterprise agreements in place. |
+| Microsoft Environment | Azure | Azure is purpose-built to integrate seamlessly with Microsoft products like Active Directory, Microsoft 365, and Windows Server. This eliminates compatibility issues and reduces migration complexity. |
+| AI / Machine Learning | GCP | Google Cloud Platform is industry-leading for AI/ML workloads, offering TensorFlow, BigQuery, Vertex AI, and AutoML. Google's expertise in machine learning gives it a significant advantage over competitors. |
+| Kubernetes Deployment | GCP | GCP offers Google Kubernetes Engine (GKE), which is superior because Google invented Kubernetes. GKE provides native integration, optimal performance, and the easiest management experience for container orchestration. |
+| Global Web Application | AWS | AWS has the most extensive global infrastructure with 30+ regions, advanced CDN (CloudFront), and mature auto-scaling services. This ensures low latency, high availability, and optimal performance worldwide. |
