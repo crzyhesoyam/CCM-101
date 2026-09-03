@@ -26,6 +26,3 @@ The **AWS Management Console** is a web-based interface for accessing and managi
 - Big data processing and analytics pipelines
 - Disaster recovery and backup solutions
 - Enterprise-grade hybrid cloud deployments
-
-## Screenshot
-*[Insert your own screenshot of the AWS homepage or Management Console here]*
