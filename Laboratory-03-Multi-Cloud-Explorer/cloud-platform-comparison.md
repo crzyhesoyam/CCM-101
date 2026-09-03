@@ -21,3 +21,14 @@ Google Cloud Platform leads in both areas. It created Kubernetes and offers Goog
 
 ### Which cloud platform would you personally choose and why?
 I would personally choose AWS. Its sheer breadth of services means that whatever a project needs, whether compute, storage, databases, AI, IoT, or niche tools, there is almost always a dedicated AWS service built for it, so I would not need to rely on third party workarounds or piece together a solution. AWS also has the most mature ecosystem of the three, with the largest community, most extensive documentation, and the widest pool of tutorials, certifications, and third party integrations, which makes troubleshooting and learning significantly easier. On top of that, its first mover advantage since 2006 means its infrastructure and tooling have been battle tested at massive scale for longer than any competitor's.
+
+
+## Checkpoint 5 – Equivalent Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
