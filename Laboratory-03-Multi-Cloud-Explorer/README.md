@@ -42,8 +42,7 @@
 - df -h output
 - lscpu output]
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3278ab44-89a6-485f-a13d-f304e824b0ae" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b44a1c08-e4b5-4608-b2fe-3fbc738201a6" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0470f58-d0de-4f32-a535-950226f505cb" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2643be75-e881-4c6f-9c59-1e4f33998689" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d8702c8-7c48-4b0b-9e6e-75546899f53d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3504d52-27d9-4f88-b171-355150018c43" />
+
 
