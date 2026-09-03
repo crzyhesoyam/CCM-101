@@ -1,4 +1,4 @@
-## Checkpoint 8 – Mission Reflection
+## Mission Reflection
 
 Throughout this Multi-Cloud Explorer mission, I gained valuable insights into the world of cloud computing and the critical role of cloud solutions architects.
 
