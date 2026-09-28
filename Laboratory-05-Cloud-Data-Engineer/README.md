@@ -6,12 +6,12 @@ In this laboratory, I deployed MinIO, a high-performance S3-compatible object st
 
 ## Objectives Completed
 
--✅ Differentiated between Block, File, and Object Storage architectures
--✅ Deployed an S3-compatible Object Storage server (MinIO) using Docker
--✅ Accessed a cloud service via web interface using port forwarding
--✅ Created a storage bucket and uploaded objects to the cloud
--✅ Documented cloud storage operations using Markdown
--✅ Expanded professional GitHub Cloud Computing Portfolio
+- Differentiated between Block, File, and Object Storage architectures
+- Deployed an S3-compatible Object Storage server (MinIO) using Docker
+- Accessed a cloud service via web interface using port forwarding
+- Created a storage bucket and uploaded objects to the cloud
+- Documented cloud storage operations using Markdown
+- Expanded professional GitHub Cloud Computing Portfolio
 
 ## Tools Used
 
