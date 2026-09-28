@@ -1,7 +1,5 @@
 # Mission Reflection: Cloud Data Engineer
 
-## Reflection Essay (320 words)
-
 **Why is object storage better suited for storing millions of photos compared to a traditional block storage hard drive?**
 
 The biggest difference I learned is that object storage doesn't hit a wall like a hard drive does. With a regular hard drive, you fill it up and you're done. You gotta buy a new one. That gets expensive fast. With object storage, you can just keep throwing data at it and it scales up automatically. Object storage works through the internet using HTTP requests, so anyone can upload photos from their phone. Block storage can't do that. For a photo-sharing app with users all over the world, object storage is just the obvious choice.
