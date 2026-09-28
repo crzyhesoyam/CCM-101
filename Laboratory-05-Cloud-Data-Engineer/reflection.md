@@ -1,6 +1,5 @@
 # Mission Reflection: Cloud Data Engineer
 
-## Reflection Essay (280 words)
 
 **Why is object storage better suited for storing millions of photos compared to a traditional block storage hard drive?**
 
