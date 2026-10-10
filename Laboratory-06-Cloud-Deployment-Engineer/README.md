@@ -54,9 +54,3 @@ docker-compose down
 - Using environment variables and service names to connect containers
 - Accessing a containerized app through a mapped port
 - Documenting infrastructure with Markdown and maintaining a GitHub portfolio
-
-## Documentation
-
-- [Multi-Tier Architecture](multi-tier-architecture.md)
-- [Docker Compose Guide](docker-compose-guide.md)
-- [Reflection](reflection.md)
