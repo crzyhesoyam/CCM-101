@@ -34,17 +34,6 @@ docker-compose down
 | `docker-compose ps` | Verified both containers were running |
 | `docker-compose down` | Stopped and removed the stack |
 
-## Screenshots
-
-### Deployment
-![Compose deployment](screenshots/compose-deployment.png)
-
-### Nextcloud Web Interface
-![Nextcloud web](screenshots/nextcloud-web.png)
-
-### Teardown
-![Compose teardown](screenshots/compose-teardown.png)
-
 ## Skills Learned
 
 - Designing a two-tier architecture with separate web and database containers
